@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCD150f7c44b0ae81A89dCbcb77CB2436b7414392",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcd150f7c44b0ae81a89dcbcb77cb2436b7414392",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "Onedles",
+  "SYMBOL": "ONEDLE",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/onedles-v2",
+  "SHOW_BACKGROUND": true
+}
